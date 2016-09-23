@@ -20,6 +20,6 @@ C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Vi
 C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Video_Games\DDillardHuntTheWumpus\DDillardHuntTheWumpus\bin\Windows\x86\Debug\SharpDX.XInput.xml
 C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Video_Games\DDillardHuntTheWumpus\DDillardHuntTheWumpus\bin\Windows\x86\Debug\SharpDX.RawInput.xml
 C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Video_Games\DDillardHuntTheWumpus\DDillardHuntTheWumpus\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
-C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Video_Games\DDillardHuntTheWumpus\DDillardHuntTheWumpus\obj\x86\Debug\DDillardHuntTheWumpus.csprojResolveAssemblyReference.cache
 C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Video_Games\DDillardHuntTheWumpus\DDillardHuntTheWumpus\obj\x86\Debug\DDillardHuntTheWumpus.exe
 C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Video_Games\DDillardHuntTheWumpus\DDillardHuntTheWumpus\obj\x86\Debug\DDillardHuntTheWumpus.pdb
+C:\Users\David\Documents\UTD_Fall_2016\CS4332.501_Introduction_To_Programming_Video_Games\DDillardHuntTheWumpus\DDillardHuntTheWumpus\obj\x86\Debug\DDillardHuntTheWumpus.csprojResolveAssemblyReference.cache
